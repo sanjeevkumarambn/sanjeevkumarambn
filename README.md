@@ -1,16 +1,12 @@
-## Hi there 👋
+# Hi there, I'm Sanjeev Kumar 👋
+I am a **Freelance WordPress Developer** and the founder of **Rojgar Sangam**.
 
-<!--
-**sanjeevkumarambn/sanjeevkumarambn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🛠 Tech Stack:
+* **Development:** WordPress, Cloud/VPS, Speed Optimization. 💻
+* **SEO:** Technical SEO, Core Web Vitals. 🔍
+* **Project:** [Rojgar Sangam](https://rojgarsangam.in/) - Job & Education Portal.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📚 Quick Links:
+* [Interview Preparation Guide](https://rojgarsangam.in/category/interview-preparation-guide/) 📖
+* [How to Apply Online](https://rojgarsangam.in/category/how-to-apply/) 📝
+* [Resume Writing Tips](https://rojgarsangam.in/category/resume-writing-tips/) 📄
