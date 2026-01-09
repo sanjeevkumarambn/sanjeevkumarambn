@@ -13,5 +13,10 @@ I am a **Freelance WordPress Developer** and the founder of **Rojgar Sangam**.
 
 ---
 ### 📊 My GitHub Stats:
-![Sanjeev's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanjeevkumarambn&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeevkumarambn&layout=compact&theme=radical)
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjeevkumarambn&show_icons=true&theme=radical" alt="Sanjeev's GitHub stats" />
+</p>
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjeevkumarambn&layout=compact&theme=radical" alt="Top Langs" />
+</p>
